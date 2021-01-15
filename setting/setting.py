@@ -1,0 +1,1 @@
+SMTP_CONTENT_TYPE_HTML = 'html'
